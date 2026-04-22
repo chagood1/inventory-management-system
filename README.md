@@ -72,3 +72,8 @@ Originally built as the final project for **CIS 3365 (Database Systems)** at Tex
 ## License
 
 MIT — see [LICENSE](LICENSE)
+### Input Validation
+
+![Phone validation](screenshots/validation-phone.png)
+
+![Date validation](screenshots/validation-date.png)
