@@ -56,7 +56,7 @@ git clone https://github.com/chagood1/inventory-management-system.git
 cd inventory-management-system
 
 # Run it (Tkinter and sqlite3 ship with Python — no install needed)
-python FinalProject_Hagood_Clay_CIS_3365.py
+python SDLC/inventory_app.py
 ```
 
 The included `inventory.db` contains realistic but entirely fictional demo data (fake supplier names, emails, and phone numbers).
